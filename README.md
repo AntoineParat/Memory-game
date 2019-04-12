@@ -12,8 +12,8 @@
 
 ## Installation
 
-Click to link to play  : https://antoineparat.github.io/memoryGame/
-Browse the folder and open the index.html file
+* Click to link to play  : https://antoineparat.github.io/memoryGame/
+* Or browse the folder and open the index.html file
 
 ## Rules
 * Match all cards with the fewer moves and the fewer time it is possible.
