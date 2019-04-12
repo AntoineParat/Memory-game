@@ -12,6 +12,7 @@
 
 ## Installation
 
+Click to link to play  : https://antoineparat.github.io/memoryGame/
 Browse the folder and open the index.html file
 
 ## Rules
