@@ -112,6 +112,7 @@ const mvt = document.querySelector('#mvt');
 const rank = document.querySelector('#rank')
 const bestScore= document.querySelector('#bestMoves');
 const bravo = document.querySelector('#bravo');
+const yourBestScoreIs = document.querySelector('.yourBestScoreIs');
 
 function displayModal () { // modal displays moves counter, timer, best score.
   modal.style.cssText = 'display:block';
@@ -120,10 +121,12 @@ function displayModal () { // modal displays moves counter, timer, best score.
   duration.innerHTML = `${minute} min and ${seconde} sec`;
   container.classList.add('avoid-clicks');// only modal is available to click
   bestScore.innerHTML = bestMoves[0];
-  if (bestMoves.length > 1 && bestMoves[0] === count) { // bestMoves[0]===count means that your current game is the one with the fewer moves (so the best)
-    bravo.innerHTML ="WOOW you beat your score!";
-    
-  }
+  if (bestMoves.length > 1 && 
+    bestMoves[0] === count &&
+    bestMoves[0] != bestMoves[1]) { // bestMoves[0]===count means that your current game is the one with the fewer moves (so the best)
+      bravo.innerHTML ="WOOW this is yout best score !!!";
+      yourBestScoreIs.classList.add("display-none");
+      }
 };
 
 //HIDE MODAL
