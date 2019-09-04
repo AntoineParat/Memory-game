@@ -48,6 +48,3 @@
 ### Trick 
 
 There is a trick with your browser console to make the best score as possible... Would you be able to find it ?
-
-### thanks
-[Udacity Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
