@@ -1,5 +1,7 @@
 # Memory Game Project
 
+![enter image description here](https://www.antoineparat.com/img/memory.png)
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -8,7 +10,6 @@
 * [How does the game run ?](#How-does-the-game-run-?)
 * [Customize the game](#customize-the-game)
 * [Trick](#trick)
-* [Thanks](#thanks)
 
 ## Installation
 
