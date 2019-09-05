@@ -7,7 +7,7 @@
 * [Installation](#installation)
 * [Rules](#rules)
 * [Instructions](#instructions)
-* [How does the game run ?](#How-does-the-game-run-?)
+* [How does the game was built ?](#How-does-the-game-run-?)
 * [Customize the game](#customize-the-game)
 * [Trick](#trick)
 
@@ -25,7 +25,7 @@
 * If the the two cards doesn't match they turn back and you have to try again.
 * Game ends when all cards have matched.
 
-## How does the game run ?
+## How does the game was built ?
 
 * This game is build with vanilla js. Starting from a static html file, i used js to manipulate the DOM :
 * Starting by building a grid of cards.
