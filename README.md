@@ -32,7 +32,7 @@
 * Adding the functionality to handle clicks.
 * Working on the matching logic.
 * Creating the winning condition.
-* Implementing additional functionality such as a move counte or a timer.
+* Implementing additional functionality such as a move counter or a timer.
 
 ### Customize the game
 
